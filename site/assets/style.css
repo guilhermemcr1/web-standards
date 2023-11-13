@@ -1,0 +1,75 @@
+body {
+    background-color: #34495E;
+   }
+
+.flex {
+	display: flex;
+}
+
+.container {
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+.titulo{
+	text-align: center;
+	margin: 30px 0 0 0;
+	font-weight: normal;
+    font-size: 3em;
+    color: #CFD8DC;
+}
+
+.titulo-caixas{
+
+    text-align: center;
+
+}
+
+.item {
+	margin: 18px;
+	background: #CFD8DC ;
+	font-size: 2em;
+    padding: 20px;;
+    border-radius: 10px;
+
+}
+
+.caixas {
+    max-width: 1600px;
+	margin: 0 auto;
+    position: relative;
+    top: 50px;
+}
+
+.texto-caixas{
+    font-size: 0.8em;
+    text-align: center;
+}
+
+.mapa {
+    width: 70%;
+    margin: 20px auto;
+    display: flex;
+}
+
+form {
+    margin: 0 auto;
+    width: 500px;
+    padding: 1em;
+}
+ 
+textarea {
+    vertical-align: top;
+    height: 6em;
+}
+
+  input, textarea {
+    font: 0.8em sans-serif;
+    width: 500px;
+    box-sizing: border-box;
+    border: 2px solid #999;
+}
+
+  
+
+  
